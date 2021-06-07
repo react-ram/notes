@@ -1,2 +1,2 @@
 # notes
-Notes for HTML, CSS, JS, TS, React, React Native
+Notes for HTML, CSS, JS, TS
